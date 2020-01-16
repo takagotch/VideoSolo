@@ -1,6 +1,6 @@
-### o
+### VideoSolo
 ---
-
+https://www.videosolo.jp/
 
 ```
 ```
